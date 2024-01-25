@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ABC-News/static/css/main.dc4d6ff2.css",
+    "main.js": "/ABC-News/static/js/main.774d0357.js",
+    "static/js/787.6643f1c0.chunk.js": "/ABC-News/static/js/787.6643f1c0.chunk.js",
+    "static/media/infinity loader.gif": "/ABC-News/static/media/infinity loader.114c20f2ff42e80bc5ca.gif",
+    "static/media/profile.png": "/ABC-News/static/media/profile.fee2be83d22d0e0617de.png",
+    "index.html": "/ABC-News/index.html",
+    "main.dc4d6ff2.css.map": "/ABC-News/static/css/main.dc4d6ff2.css.map",
+    "main.774d0357.js.map": "/ABC-News/static/js/main.774d0357.js.map",
+    "787.6643f1c0.chunk.js.map": "/ABC-News/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.774d0357.js"
+  ]
+}
