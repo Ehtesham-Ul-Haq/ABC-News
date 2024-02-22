@@ -14,7 +14,7 @@ export default class NavBar extends Component {
       <div>
             
        
-        <nav className="navbar navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar navbar-expand-lg fixed-top bg-body-tertiary">
             <div className="container-fluid">             
               <Link className="navbar-brand" to="/">
               <img src={logoImage} alt="Logo" width="100" height="30" className="d-inline-block align-text-top" />
